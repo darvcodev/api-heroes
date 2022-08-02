@@ -1,0 +1,13 @@
+{
+  "name": "api-heroes",
+  "version": "1.0.0",
+  "description": "Soy una super API",
+  "main": "server.js",
+  "author": "Daniel Rojas Vidal",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
